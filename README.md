@@ -27,7 +27,7 @@ A User should be able to login and create a new Goal. A User should be able to a
     - Belongs to a User
     - Belongs to a List
     - Has many Tags
-- Tag(content, )
+- Tag(content)
     - Belongs to a Goal
     - Belongs to a Note
     - Belongs to a List
